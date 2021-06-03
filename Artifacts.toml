@@ -1,30 +1,30 @@
 [[H2AgModel]]
 arch = "x86_64"
-git-tree-sha1 = "e764232f71b72b48c3850b8d42a18c0f5d904cc3"
+git-tree-sha1 = "ac985dcb029a780f174327cf7aeb38c78d8c5028"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[H2AgModel.download]]
-    sha256 = "2340aaf151ebff224176a4fe8a15f5ec49a72f0216f32bd850c181402343e700"
-    url = "https://github.com/jamesgardner1421/H2AgModel.jl/releases/download/H2AgModel-v0.1.0+0/H2AgModel.v0.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "2f862dd462cecbfb3d1fb47a8c0c62097a2279ebbee549ec5067fd751333222f"
+    url = "https://github.com/maurergroup/H2AgModel_jll.jl/releases/download/H2AgModel-v0.1.1+0/H2AgModel.v0.1.1.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[H2AgModel]]
 arch = "x86_64"
-git-tree-sha1 = "edd6518e4c4b87fad8abb7bff7ac7e1fdd3dc852"
+git-tree-sha1 = "8f1ce3c6a2f37291769023e770737026cef3dc90"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[H2AgModel.download]]
-    sha256 = "a2d4a7ff33fa403752008ee26e1d6b05e99124f55f34def8d648d6da9f81bbb7"
-    url = "https://github.com/jamesgardner1421/H2AgModel.jl/releases/download/H2AgModel-v0.1.0+0/H2AgModel.v0.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "55fc5ad812a00872f71629eabf0c46bb81c87fe9db53a8482d1473f692363ce3"
+    url = "https://github.com/maurergroup/H2AgModel_jll.jl/releases/download/H2AgModel-v0.1.1+0/H2AgModel.v0.1.1.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[H2AgModel]]
 arch = "x86_64"
-git-tree-sha1 = "a2b5aac440dec8b17c21c4e34321d6ef3c1bf70e"
+git-tree-sha1 = "04c8ec6676fafb7b3c3a01c98ece2cf285e4055f"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[H2AgModel.download]]
-    sha256 = "8a06d4be564b125ae0c27bbd6868584f3a5baa0511fc284b44b00e005de52314"
-    url = "https://github.com/jamesgardner1421/H2AgModel.jl/releases/download/H2AgModel-v0.1.0+0/H2AgModel.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "6732398005f466c9bb698bb365da494ec09fb5fa6bce9427353dc9b12c739045"
+    url = "https://github.com/maurergroup/H2AgModel_jll.jl/releases/download/H2AgModel-v0.1.1+0/H2AgModel.v0.1.1.x86_64-linux-gnu-libgfortran5.tar.gz"
